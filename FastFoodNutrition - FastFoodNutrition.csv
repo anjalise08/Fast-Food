@@ -1,0 +1,67 @@
+id,Name,Type,Vendor,Calories,Fat (g),Protein (g),Carbohydrate (g),Cholesterol (mg),Saturated Fats (g),Sodium (mg),Serving Weight 1 (g),200 Calorie Weight (g)
+1,Kfc Biscuit,Biscuit,KFC,358,17.05,7.5,43.55,1,11.916,1070,49,55.866
+2,McDonalds Bacon Egg & Cheese Biscuit,Biscuit,McDonalds,304,18.77,13.45,22.26,167,8.262,863,142,65.789
+3,McDonalds Sausage Biscuit,Biscuit,McDonalds,376,25.4,9.62,27.2,29,10.659,875,117,53.191
+4,McDonalds Sausage Biscuit With Egg,Biscuit,McDonalds,311,22.26,11.27,19.28,152,8.628,664,163,64.309
+5,McDonalds Southern Style Chicken Biscuit,Biscuit,McDonalds,304,14.93,11.93,30.56,24,5.712,868,132,65.789
+6,Bacon On Biscuit,Biscuit,Other,355,14.11,9.75,47.19,14,2.993,1037,93,56.338
+7,Biscuit With Crispy Chicken Fillet,Biscuit,Other,300,14.93,11.93,30.56,24,5.712,868,132,66.667
+8,Biscuit With Egg And Bacon,Biscuit,Other,305,20.73,11.33,19.06,235,5.3,844,150,65.574
+9,Biscuit With Egg And Ham,Biscuit,Other,233,14.08,10.64,16.37,156,3.08,1093,182,85.837
+10,Biscuit With Egg Cheese And Bacon,Biscuit,Other,301,17.48,12.01,24.44,166,5.893,816,145,66.445
+11,Biscuit With Gravy,Biscuit,Other,215,12.3,5.9,20.33,16,3.276,440,221,93.023
+12,Biscuit With Ham,Biscuit,Other,342,16.3,11.85,38.75,22,10.096,974,162,58.48
+13,Biscuit With Sausage,Biscuit,Other,371,24.42,9.67,29.99,28,7.427,814,111,53.908
+14,Egg And Cheese On Biscuit,Biscuit,Other,270,16.3,9.03,21.69,133,4.761,636,140,74.074
+15,Egg And Steak On Biscuit,Biscuit,Other,284,12.85,10.82,31.07,73,2.654,763,179,70.423
+16,Egg Cheese And Ham On Biscuit,Biscuit,Other,253,16.29,12.05,14.84,149,4.896,1042,174,79.051
+17,Fast Food Biscuit,Biscuit,Other,370,18.92,7.08,42.82,2,11.803,979,55,54.054
+18,Fast Foods Biscuit With Egg And Sausage,Biscuit,Other,312,20.77,11.13,21.05,161,6.449,672,162,64.103
+19,Steak Sandwich Plain On Biscuit,Biscuit,Other,287,9.37,13.63,36.63,26,1.851,660,142,69.686
+20,Popeyes Biscuit,Biscuit,Popeyes,401,23.71,6,40.95,2,11.515,745,60,49.875
+21,Burger King French Toast Sticks,Bread,Burger King,349,17.74,6,41.21,0,3.989,428,21,57.307
+22,Breadstick Soft Prepared With Garlic And Parmesan Cheese,Bread,Other,343,12.88,12.2,44.48,7,2.966,539,43,58.309
+23,Breadsticks Soft From Fast Food / Restaurant,Bread,Other,342,12.85,12.18,44.39,7,2.96,615,26,58.48
+24,French Toast Gluten Free,Bread,Other,261,11.9,7.85,30.55,160,3.398,308,65,76.628
+25,French Toast Gluten Free From Frozen,Bread,Other,173,4.49,4.83,28.25,61,1.259,245,10,115.607
+26,French Toast Nfs,Bread,Other,270,10.95,10.12,32.37,160,3.259,330,65,74.074
+27,French Toast Plain,Bread,Other,270,10.95,10.12,32.37,160,3.259,330,65,74.074
+28,French Toast Plain From Fast Food / Restaurant,Bread,Other,306,13.74,9.54,35.78,132,4.938,391,85,65.359
+29,French Toast Plain From Frozen,Bread,Other,181,3.58,6.98,29.98,61,1.127,266,10,110.497
+30,French Toast Plain Reduced Fat,Bread,Other,237,6.22,10.64,34.05,164,1.913,327,65,84.388
+31,French Toast Sticks,Bread,Other,340,17.74,6,41.21,0,3.989,400,65,58.824
+32,French Toast Sticks Nfs,Bread,Other,283,9.6,7.06,41.92,18,1.349,494,25,70.671
+33,French Toast Sticks Plain From Fast Food / Restaurant,Bread,Other,400,20.87,7.06,48.48,0,4.693,471,25,50
+34,French Toast Sticks Plain From Frozen,Bread,Other,283,9.6,7.06,41.92,18,1.349,494,45,70.671
+35,French Toast Sticks Whole Grain,Bread,Other,269,11.26,11.43,30.3,160,3.268,317,45,74.349
+36,French Toast Whole Grain,Bread,Other,269,11.26,11.43,30.3,160,3.268,317,65,74.349
+37,French Toast Whole Grain From Fast Food / Restaurant,Bread,Other,304,14.11,11.05,33.39,132,4.948,376,85,65.789
+38,French Toast Whole Grain From Frozen,Bread,Other,180,3.88,8.21,28.02,61,1.135,254,10,111.111
+39,French Toast Whole Grain Reduced Fat,Bread,Other,236,6.55,12.01,31.88,164,1.922,313,65,84.746
+40,Fried Bread Puerto Rican Style,Bread,Other,257,8.19,5.01,41.83,56,1.653,277,110,77.821
+41,Garlic Bread From Fast Food / Restaurant,Bread,Other,349,16.58,8.34,41.64,0,5.27,620,37,57.307
+42,Pizza Hut Breadstick Parmesan Garlic,Bread,Pizza Hut,343,12.88,12.2,44.48,7,2.966,539,43,58.309
+43,French Toast From School Nfs,Bread,School Lunch,160,3.69,9.25,22.37,69,1.084,261,10,125
+44,French Toast Sticks From School Nfs,Bread,School Lunch,160,3.69,9.25,22.37,69,1.084,261,25,125
+45,McDonalds Egg Mcmuffin,Breakfast Sandwich,McDonalds,228,9.66,13.64,21.67,165,3.592,617,126,87.719
+46,McDonalds Sausage Egg & Cheese Mcgriddles,Breakfast Sandwich,McDonalds,283,17.73,10.77,22.04,132,5.649,652,199,70.671
+47,McDonalds Sausage Mcgriddles,Breakfast Sandwich,McDonalds,312,17.76,8.41,31.25,24,5.435,737,135,64.103
+48,Bagel With Breakfast Steak Egg Cheese And Condiments,Breakfast Sandwich,Other,282,14.07,15.95,22.99,130,5.419,642,254,70.922
+49,Bagel With Egg Sausage Patty Cheese And Condiments,Breakfast Sandwich,Other,295,16.97,12.98,22.64,133,6.396,550,219,67.797
+50,Egg Cheese And Bacon On Bagel,Breakfast Sandwich,Other,240,10.93,12.96,21.79,131,4.231,530,246,83.333
+51,Egg Cheese And Ham On Bagel,Breakfast Sandwich,Other,261,14.38,12.86,19.47,90,4.062,754,218,76.628
+52,Egg Cheese And Sausage On Bun,Breakfast Sandwich,Other,271,16.01,13.67,17.38,162,5.459,666,148,73.801
+53,Egg Cheese Ham And Bacon On Bun,Breakfast Sandwich,Other,261,13.93,15.01,17.92,147,5.331,771,226,76.628
+54,Egg Extra Cheese And Extra Sausage On Bun,Breakfast Sandwich,Other,274,17.68,14.32,14.04,105,6.209,648,213,72.993
+55,Egg Cheese And Beef On English Muffin,Breakfast Sandwich,Other,274,16.07,14.32,17.8,115,5.949,603,147,72.993
+56,English Muffin With Cheese And Sausage,Breakfast Sandwich,Other,338,20.67,13.28,25.28,43,8.152,668,108,59.172
+57,English Muffin With Egg Cheese And Canadian Bacon,Breakfast Sandwich,Other,228,9.66,13.64,21.67,168,3.592,617,126,87.719
+58,English Muffin With Egg Cheese And Sausage,Breakfast Sandwich,Other,286,18.1,13.38,17.44,163,6.928,548,165,69.93
+59,Ham And Cheese On English Muffin,Breakfast Sandwich,Other,254,12.16,16.9,18.91,46,6.451,752,57,78.74
+60,Burger King Cheeseburger,Burger,Burger King,286,14.81,14.57,23.71,45,6.842,602,133,69.93
+61,Burger King Double Whopper No Cheese,Burger,Burger King,252,15.66,13.94,13.74,46,5.773,289,374,79.365
+62,Burger King Double Whopper With Cheese,Burger,Burger King,266,17.06,14.47,13.52,47,6.998,387,399,75.188
+63,Burger King Hamburger,Burger,Burger King,261,10.55,14.85,26.76,35,3.821,461,99,76.628
+64,Burger King Whopper No Cheese,Burger,Burger King,233,12.84,10.74,18.55,30,4.25,313,291,85.837
+65,Burger King Whopper With Cheese,Burger,Burger King,250,15.33,11.19,16.7,36,5.782,453,316,80
+66,Cheeseburger 1 Small Patty With Condiments On Bun From Fast Food / Restaurant (Burger King Whopper Jr. With Cheese),Burger,Burger King,225,11.88,11.2,18.11,32,4.663,445,170,88.889
